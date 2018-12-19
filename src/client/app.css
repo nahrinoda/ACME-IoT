@@ -1,0 +1,15 @@
+.container {
+  padding: 1%;
+  line-height: 0.5;
+  color: rgb(163, 159, 159);
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+.header {
+  margin: 1%;
+  text-align: center;
+  color: grey;
+}
